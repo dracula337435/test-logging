@@ -1,10 +1,10 @@
-package io.dracula.test.logging.agg.log4j2;
+package io.dracula.test.logging.agg.slf4j.and.log4j2.to.slf4j;
 
 import io.dracula.test.logging.todo.log4j2.TestLog4j2;
 import io.dracula.test.logging.todo.slf4j.TestSlf4j;
 import org.junit.Test;
 
-public class TestAggLog4j2 {
+public class TestAggSlf4jAndLog4j2ToSlf4j {
 
     @Test
     public void log(){

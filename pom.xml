@@ -19,8 +19,8 @@
         <module>todo-log4j2</module>
         <module>todo-log4j</module>
         <module>todo-slf4j</module>
-        <module>agg-log4j2</module>
-        <module>agg-slf4j</module>
+        <module>agg-slf4j+log4j2-to-log4j2</module>
+        <module>agg-slf4j+log4j2-to-slf4j</module>
     </modules>
 
     <dependencies>
