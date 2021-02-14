@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>test-logging-agg-slf4j+log4j2-to-log4j2</artifactId>
+    <artifactId>test-logging-agg-slf4j-and-log4j2-to-log4j2</artifactId>
 
     <dependencies>
         <dependency>
