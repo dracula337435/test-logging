@@ -22,6 +22,7 @@
         <module>agg-slf4j+log4j2-to-log4j2</module>
         <module>agg-slf4j+log4j2-to-slf4j</module>
         <module>agg-slf4j+log4j-to-slf4j</module>
+        <module>agg-log4j2+log4j-to-log4j2</module>
     </modules>
 
     <dependencies>
